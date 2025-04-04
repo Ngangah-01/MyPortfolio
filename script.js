@@ -14,7 +14,7 @@ function type() {
             index = 0;
             typingEl.textContent = '';
             type(); // Start typing again
-        }, 2000); // Pause for 2 seconds before restarting the typing effect
+        }, 3000); // Pause for 2 seconds before restarting the typing effect
     }
 }
 
