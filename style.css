@@ -211,7 +211,7 @@ footer {
     font-weight: bold;
     text-decoration: none;
     transition: background-color 0.3s ease;
-    margin-left: -325px;
+    margin-left: -420px;
 }
 
 .resume a:hover {
@@ -225,6 +225,8 @@ footer {
     flex-wrap: wrap;
     gap: 20px;
     margin-top: 30px;
+    margin-left: -80px;
+
 }
 
 .stat-box {
